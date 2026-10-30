@@ -38,7 +38,7 @@ ping command is available on Windows as well as on Linux OS. Following is the ex
 <img width="786" height="291" alt="image" src="https://github.com/user-attachments/assets/5c0570b4-a5c1-4ea4-bea5-f53d5126baf9" />
 ```
 ##output
-<img width="786" height="291" alt="image" src="https://github.com/user-attachments/assets/1977eab9-02a1-4f54-9ea7-c7f358bc17de" />
+<img width="846" height="251" alt="image" src="https://github.com/user-attachments/assets/2fb4e103-f2fa-4764-a5aa-b64e2997ca1a" />
 
 
 
@@ -67,8 +67,7 @@ GET / HTTP/1.1
 Host: chatgpt.com
 ```
 #output:
-<img width="1920" height="943" alt="image" src="https://github.com/user-attachments/assets/9c735c32-a7eb-4c5b-913e-a2d51c311da8" />
-
+<img width="1920" height="943" alt="image" src="https://github.com/user-attachments/assets/9b9825eb-72ab-4d3b-94b9-3656bf609b0d" />
 
 
 
@@ -78,7 +77,8 @@ nmap -sL chatgpt.com
 ```
 
 ###output
-<img width="797" height="192" alt="image" src="https://github.com/user-attachments/assets/52c74e38-bc18-4189-b312-4a35ae9477b5" />
+<img width="805" height="232" alt="image" src="https://github.com/user-attachments/assets/a110b8ec-6b19-4fd4-88f6-467faf8dd9c0" />
+
 
 
 
@@ -87,8 +87,11 @@ nmap -sL chatgpt.com
 whatweb https://chatgpt.com
 ```
 
+
 ### output:
-<img width="985" height="255" alt="image" src="https://github.com/user-attachments/assets/32de84a8-5170-47c4-bdab-c2926dc2bfd7" />
+<img width="950" height="220" alt="image" src="https://github.com/user-attachments/assets/d94d4e0d-0929-4ae6-b5bf-bcee16bc09b5" />
+
+
 
 
 
@@ -97,7 +100,8 @@ whatweb https://chatgpt.com
 httprint -h https://chatgpt.com/ -s /usr/share/httprint/signatures.txt -P0 -t 30000
 ```
 ### output
-<img width="2170" height="725" alt="image" src="https://github.com/user-attachments/assets/fd0b7980-590a-43d0-bbd2-7f089862f615" />
+
+
 
 
 
@@ -108,7 +112,7 @@ TCP Traceroute:
 sudo traceroute -T -m 12 -q 1 -w 2 chatgpt.com
 ```
 ## output
-<img width="787" height="137" alt="image" src="https://github.com/user-attachments/assets/57d33d7d-25e1-467f-8c1b-2f25aad24e3e" />
+<img width="736" height="92" alt="image" src="https://github.com/user-attachments/assets/2f999eec-d24c-4cef-adc2-ef997925d9a0" />
 
 
 ## UDP Traceroute:
@@ -119,7 +123,8 @@ sudo traceroute -U -m 12 -q 1 -w 2 chatgpt.com
 
 ## output
 
-<img width="735" height="367" alt="image" src="https://github.com/user-attachments/assets/d8e5f7e0-2b4b-4041-9459-9b9169971450" />
+<img width="673" height="322" alt="image" src="https://github.com/user-attachments/assets/32698761-f2f5-458d-a04e-ef38d9c49dcd" />
+
 
 
 ## ICMP Traceroute:
@@ -127,7 +132,8 @@ sudo traceroute -U -m 12 -q 1 -w 2 chatgpt.com
 sudo traceroute -I -m 12 -q 1 -w 2 chatgpt.com
 ```
 ## output
-<img width="757" height="125" alt="image" src="https://github.com/user-attachments/assets/043d8d4e-533b-42d7-b983-ce0a2535ae46" />
+<img width="761" height="92" alt="image" src="https://github.com/user-attachments/assets/254a0a87-151b-4c55-9c0a-0807bdd9ef93" />
+
 
 
 
