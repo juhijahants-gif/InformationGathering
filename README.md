@@ -99,7 +99,9 @@ whatweb https://chatgpt.com
 ```
 httprint -h https://chatgpt.com/ -s /usr/share/httprint/signatures.txt -P0 -t 30000
 ```
-### output
+### output:
+<img width="1024" height="342" alt="WhatsApp Image 2026-10-30 at 9 15 38 AM" src="https://github.com/user-attachments/assets/aa3a6c2f-d4b1-4c98-a46d-9ee21fbf3575" />
+
 
 
 
